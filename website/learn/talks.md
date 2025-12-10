@@ -8,6 +8,51 @@ Talks and presentations about Apache Fluss from conferences, meetups, and commun
 
 ---
 
+### Apache Fluss: A Streaming Storage for Real-Time Lakehouse
+**Jark Wu** • CMU Database Group • December 2025
+
+A comprehensive talk at Carnegie Mellon University's Database Group discussing Apache Fluss as a streaming storage solution for real-time Lakehouse architectures, covering its design principles, architecture, and integration with modern data systems.
+
+[📹 Watch on YouTube](https://www.youtube.com/watch?v=mcFHZFb1CAo)
+
+---
+
+### Apache Fluss and the Seven Deadly Sins of Streaming
+**Flink Forward / Europe Big Data** • 2025
+
+An in-depth exploration of common pitfalls in streaming architectures and how Apache Fluss addresses these challenges through its innovative design and seamless integration with streaming processors.
+
+[📹 Watch on YouTube](https://www.youtube.com/watch?v=ZOh9XH4zGLM)
+
+---
+
+### Apache Fluss: Making Your Lakehouse Truly Real Time
+**Flink Forward** • 2025
+
+Discover how Apache Fluss bridges the gap between streaming and Lakehouse architectures, enabling truly real-time analytics with low latency and high throughput for modern data applications.
+
+[📹 Watch on YouTube](https://www.youtube.com/watch?v=ushwjnXmi2A)
+
+---
+
+### Streaming Down the Fluss: Taming CDC Streams with Flink, Fluss, and Paimon
+**Europe Big Data Conference** • 2025
+
+Learn how to build robust Change Data Capture (CDC) pipelines using Apache Flink, Fluss, and Paimon together, creating a powerful stack for real-time data integration and lakehouse analytics.
+
+[📹 Watch on YouTube](https://www.youtube.com/watch?v=pnrW5r-4mIQ)
+
+---
+
+### The Seven Deadly Sins of Streaming
+**Conference / Meetup** • 2025
+
+A thought-provoking presentation examining the common mistakes and antipatterns in streaming system design, with insights on how to avoid them using modern streaming storage solutions like Apache Fluss.
+
+[📹 Watch on YouTube](https://www.youtube.com/watch?v=3c5RgJFTsMM)
+
+---
+
 ### Fluss: Redefining Streaming Storage for Real-Time Data Analytics and AI
 **Jark Wu** • Flink Forward Asia 2025 • July 2025
 
